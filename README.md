@@ -15,6 +15,7 @@
 - 🌱 I’m currently a Full-Stack Developer @European Dynamics.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [manos.athanasopoulos@yahoo.gr](mailto:manos.athanasopoulos@yahoo.gr).
+- <a href="https://athanasso.github.io/Personal-Portfolio/">Take a look at my Portfolio </a>
 
 ## Languages and Tools
 
@@ -22,7 +23,7 @@
   <li>
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> Java
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> Python
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" /></code> C#
+    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /></code> C#
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code> PHP
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code> C
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code> C++
