@@ -27,6 +27,7 @@
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code> C
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code> C++
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"></code> Kotlin
+    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code> PHP
   </li>
 
   <li>
