@@ -53,6 +53,16 @@
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /></code> SQLite
   </li>
 </ul>
+# 📊 GitHub Stats:
 <img align="center" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athanasso&count_private=true&theme=radical&hide=PHP" alt="SanskarJaiswal" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athanasso&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athanasso&count_private=true&theme=radical" alt="SanskarJaiswal" />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=athanasso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=athanasso&icon=0&color=5)](https://visitcount.itsvg.in)
