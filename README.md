@@ -65,4 +65,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=athanasso&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=athanasso&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
