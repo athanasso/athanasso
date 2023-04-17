@@ -15,7 +15,7 @@
 - 🌱 I’m currently a Full-Stack Developer @European Dynamics.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [manos.athanasopoulos@yahoo.gr](mailto:manos.athanasopoulos@yahoo.gr).
-- <a href="https://athanasso.github.io/Personal-Portfolio/">Take a look at my Portfolio </a>
+- <a href="https://athanasso.github.io">Take a look at my Portfolio </a>
 
 ## Languages and Tools
 
