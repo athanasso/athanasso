@@ -12,7 +12,7 @@
 ## About me
 
 - 👨🏽‍💻 I’m an Informatics and Computer Engineering soon to be graduate.
-- 🌱 I’m currently a Full-Stack Developer @European Dynamics.
+- 🌱 I’m currently a Sofware Engineer specializing in Front end Development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [manos.athanasopoulos@yahoo.gr](mailto:manos.athanasopoulos@yahoo.gr).
 - <a href="https://athanasso.github.io">Take a look at my Portfolio </a>
