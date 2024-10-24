@@ -15,7 +15,7 @@
 - 🌱 I’m currently a Sofware Engineer specializing in Front end Development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [manos.athanasopoulos@yahoo.gr](mailto:manos.athanasopoulos@yahoo.gr).
-- <a href="https://athanasso.github.io">Take a look at my Portfolio </a>
+- <a href="https://athanasopoulos.is-a.dev/">Take a look at my Portfolio </a>
 
 ## Languages and Tools
 
