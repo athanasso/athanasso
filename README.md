@@ -11,7 +11,7 @@
 
 ## About me
 
-- 👨🏽‍💻 I’m an Informatics and Computer Engineering soon to be graduate.
+- 👨🏽‍💻 I’m an Informatics and Computer Engineering graduate.
 - 🌱 I’m currently a Sofware Engineer specializing in Front end Development.
 - 💬 Ask me about anything, I love to answer!
 - <a href="https://athanasopoulos.is-a.dev/">Take a look at my Portfolio </a>
