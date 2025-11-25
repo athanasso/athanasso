@@ -53,7 +53,10 @@
 ## 📊 GitHub Stats:
 <img align="center" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athanasso&count_private=true&theme=radical&hide=PHP,ShaderLab" alt="SanskarJaiswal" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athanasso&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athanasso&count_private=true&theme=radical" alt="SanskarJaiswal" />
+
+![](https://github-readme-stats.vercel.app/api?username=athanasso&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=athanasso&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=athanasso&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=athanasso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -62,4 +65,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=athanasso&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=athanasso&icon=0&color=0)](https://visitcount.itsvg.in)
