@@ -1,68 +1,78 @@
-# Hello There 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" width="200" alt="Hello There" />
 
-<a href="https://www.linkedin.com/in/Emmanouil-Athanasopoulos/">
-  <img align="left" alt="Emmanouil's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+  # Hello There! I'm Emmanouil 👋
+
+  <a href="https://www.linkedin.com/in/Emmanouil-Athanasopoulos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://athanasopoulos.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br />
-<br />
 
-<img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" />
-
-## About me
-
-- 👨🏽‍💻 I’m an Informatics and Computer Engineering graduate.
-- 🌱 I’m currently a Sofware Engineer specializing in Front end Development.
+### 👨‍💻 About Me
+- 🎓 I’m an **Informatics and Computer Engineering** graduate.
+- 🌱 I’m currently a **Software Engineer** specializing in **Front-end Development**.
 - 💬 Ask me about anything, I love to answer!
-- <a href="https://athanasopoulos.is-a.dev/">Take a look at my Portfolio </a>
-
-## Languages and Tools
-
-<ul style="direction: flex">
-  <li>
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /></code> Nest
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code> Node
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> Java
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code> JakartaEE
-  </li>
-
-  <li>
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code> TypeScript
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> React
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code> Next
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code> Angular
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> React Native
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> JavaScript
-  </li>
-
-  <li>
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/bootstrap/bootstrap-original-wordmark.svg" /></code> BootStrap
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> HTML
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code> CSS
-    <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg"></code> TailwindCSS
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /></code> JQuery
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code> Sass
-  </li>
-
-  <li>
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> Git
-    <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code> MySQL
-  </li>
-</ul>
-
-## 📊 GitHub Stats:
-<img align="center" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athanasso&count_private=true&theme=radical&hide=PHP,ShaderLab" alt="SanskarJaiswal" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athanasso&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-
-![](https://github-readme-stats.vercel.app/api?username=athanasso&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=athanasso&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=athanasso&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=athanasso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=athanasso&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🛠 Languages and Tools
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Jakarta%20EE-%23000000.svg?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <br />
+  
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+ <img align="center" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athanasso&count_private=true&theme=radical&hide=PHP,ShaderLab" alt="SanskarJaiswal" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=athanasso&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athanasso&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+</div>
+
+<br />
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
